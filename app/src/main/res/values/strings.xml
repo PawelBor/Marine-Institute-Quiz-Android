@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MARINE</string>
+    <string name="question1">Why oysters filter large volumes of water?</string>
+    <string name="question1_a1">They feed themselves this way.</string>
+    <string name="question1_a2">To filter out salmonella.</string>
+    <string name="question1_a3">They reproduce this way.</string>
+    <string name="question1_a4">To protect themselves from heat.</string>
+
+    <string name="question2">Select parts of the human body that the norovirus affects:</string>
+    <string name="question2_a1">Stomach</string>
+    <string name="question2_a2">Large Intestine</string>
+    <string name="question2_a3">Small Intestine</string>
+    <string name="question2_a4">Kidneys</string>
+
+    <string name="question3">Which part of the oyster contains the highest levels of norovirus?</string>
+    <string name="question3_a1">Mouth</string>
+    <string name="question3_a2">Brain</string>
+    <string name="question3_a3">Digestive Gland</string>
+    <string name="question3_a4">Lung Alveoli</string>
+
+    <string name="question4">How would you know if there is a bacteriophage plaque present on an agar plate?</string>
+    <string name="question4_a1">Purple Circle</string>
+    <string name="question4_a2">Clear Zone</string>
+    <string name="question4_a3">Dark Zone</string>
+    <string name="question4_a4">Yellow Tint</string>
+
+    <string name="question5">Which genotype of FRNA bacteriophage is of human origin? </string>
+    <string name="question5_a1">Gi</string>
+    <string name="question5_a2">GIV</string>
+    <string name="question5_a3">GS</string>
+    <string name="question5_a4">GA</string>
+
+    <string name="question6">What is the name of the virus talked about in the poster?</string>
+    <string name="question6_ok_answer">norovirus</string>
+
+    <string name="name_field">Set name</string>
+    <string name="answer_field">Set answer</string>
+    <string name="submit">submit answers</string>
+    <string name="reset">RESET</string>
+    <string name="no_name">Please set your name</string>
+    <string name="no_all_answers">You need to answer all question first</string>
+    <string name="finish_answer">Congratulations %1$s. Your score is %2$s %%</string>
+</resources>
+
